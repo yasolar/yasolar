@@ -1,4 +1,4 @@
-<h1 align="center">Oi, Meu nome é Yasmin 👋</h1>
+<h1 align="center">Oi, meu nome é Yasmin 👋</h1>
 <h3 align="center">
     Sou apaixonada por tecnologia e adoro conhecer pessoas e suas vivências ✨
 </h3>
