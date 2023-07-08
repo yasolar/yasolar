@@ -4,7 +4,7 @@
 </h3>
 
 - 🎓 Formada em: **Ciência da Computação**
-- 🌱 Em constante aprendizado com: **React.js, Javascript, React Native, HTML, CSS e Node.js**
+- 🌱 Em constante aprendizado com: **React.js, React Native e Node.js**
 - ⚡ Curiosidades: **Meu TCC foi criar um robô com arduíno, amo animais e gosto excessivamente de pipoca**
 
 #
