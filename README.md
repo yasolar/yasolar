@@ -1,6 +1,6 @@
 <h1 align="center">Oi, meu nome é Yasmin 👋</h1>
 <h3 align="center">
-    ✨ Desenvolvedora Web e Mobile ✨
+    Desenvolvedora Web e Mobile
 </h3>
 
 - 🎓 Formada em: **Ciência da Computação**
