@@ -96,7 +96,7 @@
         </tr>
         <tr>
             <td align="left">
-                <a href="https://www.w3.org/html/" target="_blank" rel="opener">
+                <a href="https://www.w3schools.com/html/" target="_blank" rel="opener">
                     <img src="https://img.shields.io/badge/HTML-gray?logo=html5" style="max-width: 100%;">
                 </a>
             </td>
