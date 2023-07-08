@@ -1,94 +1,13 @@
 <h1 align="center">Oi, meu nome é Yasmin 👋</h1>
 <h3 align="center">
-    Desenvolvedora Web e Mobile
+    Desenvolvedora Fullstack e Mobile
 </h3>
 
 - 🎓 Formada em: **Ciência da Computação**
 - 🌱 Em constante aprendizado com: **React.js, React Native e Node.js**
 - ⚡ Curiosidades: **Meu TCC foi criar um robô com arduíno, amo animais e gosto excessivamente de pipoca**
 
-#
-🛠️ Linguagens e ferramentas:
-<p align="left"> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> 
-    </a> 
-    <a href="https://reactnative.dev/" target="_blank"
-        rel="noreferrer"> 
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40"
-            height="40" /> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank" rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> 
-    </a>
-    <a
-        href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img alt="css3" width="40" height="40"
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        /> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img
-            src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
-            height="40" /> 
-    </a>
-    <a
-        href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> 
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-        <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank"
-        rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> 
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server"
-        target="_blank" rel="noreferrer"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-            alt="mssql" width="40" height="40" /> 
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank"
-        rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"
-            height="40" /> 
-    </a> 
-    <a href="https://jestjs.io" target="_blank"
-        rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40"
-            height="40" /> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> 
-    </a> 
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-        <img
-            src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-            alt="selenium" width="40" height="40" /> 
-    </a>
-</p>
-
-#
+##
 🤝 Conecte-se comigo:
 <p>
   <a href="https://linkedin.com/in/yasmin-araujo-58883276" target="blank">
@@ -97,3 +16,123 @@
         />
     </a>
 </p>
+
+##
+<table>
+    <thead>
+        <tr>
+            <th align="center">FRONTEND</th>
+            <th align="center">BACKEND</th>
+            <th align="center">MOBILE</th>
+            <th align="center">STYLES</th>
+            <th align="center">DATABASES</th>
+            <th align="center">TOOLS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="left">
+                <a href="https://reactjs.org/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/REACT-gray?logo=react" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://nodejs.org" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/NODE-gray?logo=nodedotjs" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://reactnative.dev/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/REACT%20NATIVE-gray?logo=react" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://styled-components.com/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/STYLED%20COMPONENTS-gray?logo=styledcomponents" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://firebase.google.com/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/FIREBASE-gray?logo=firebase" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://git-scm.com/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/GIT-gray?logo=git" style="max-width: 100%;">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/JAVASCRIPT-gray?logo=javascript" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://www.python.org" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/PYTHON-gray?logo=python" style="max-width: 100%;">
+                </a>
+            </td>  
+            <td align="left">
+                <a href="https://flutter.dev/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/FLUTTER-gray?logo=flutter" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://www.w3schools.com/css/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/CSS-gray?logo=css3" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/SQL%20SERVER-gray?logo=microsoftsqlserver" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://www.figma.com/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/FIGMA-gray?logo=figma" style="max-width: 100%;">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">
+                <a href="https://www.w3.org/html/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/HTML-gray?logo=html5" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">-</td>
+            <td align="left">-</td>
+            <td align="left">
+                <a href="https://tailwindcss.com/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/TAILWINDCSS-gray?logo=tailwindcss" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://www.mysql.com/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/MYSQL-gray?logo=mysql" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://jestjs.io" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/JEST-gray?logo=jest" style="max-width: 100%;">
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="left">-</td>
+            <td align="left">-</td>
+            <td align="left">-</td>
+            <td align="left">-</td>
+            <td align="left">
+                <a href="https://www.sqlite.org/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/SQLITE-gray?logo=sqlite" style="max-width: 100%;">
+                </a>
+            </td>
+            <td align="left">
+                <a href="https://www.selenium.dev" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/SELENIUM-gray?logo=selenium" style="max-width: 100%;">
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
