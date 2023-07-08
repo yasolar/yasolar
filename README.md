@@ -18,7 +18,7 @@
 </p>
 
 ##
-<table>
+<table align="center">
     <thead>
         <tr>
             <th align="center">FRONTEND</th>
