@@ -3,7 +3,7 @@
     Desenvolvedora Fullstack e Mobile
 </h3>
 
-- 🎓 Formada em: **Ciência da Computação**
+- 🎓 Pós-graduação em **Inteligência Artificial** e Graduação em **Ciência da Computação**
 - 🌱 Em constante aprendizado com: **React.js, React Native e Node.js**
 - ⚡ Curiosidades: **Meu TCC foi criar um robô com arduíno, amo animais e gosto excessivamente de pipoca**
 
@@ -96,8 +96,8 @@
         </tr>
         <tr>
             <td align="left">
-                <a href="https://www.w3schools.com/html/" target="_blank" rel="opener">
-                    <img src="https://img.shields.io/badge/HTML-gray?logo=html5" style="max-width: 100%;">
+                <a href="https://www.typescriptlang.org/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/TYPESCRIPT-gray?logo=typescript" style="max-width: 100%;">
                 </a>
             </td>
             <td align="left">-</td>
